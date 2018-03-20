@@ -1,4 +1,4 @@
-# blockchaintutorials
+# Blockchain 101 Tutorials
 Blockchain 101 Tutorials
 
 Two classes on learning how to use Python in Blockchain world
